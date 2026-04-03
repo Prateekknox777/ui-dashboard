@@ -18,18 +18,3 @@ A simple and interactive web application built with React and Vite to help track
 - Tailwind CSS (atomic CSS architecture)
 - Lucide React (vector icons)
 
-## Getting Started
-
-1. Clone or download the repository.
-2. Ensure you have Node.js installed.
-3. Follow the steps below to run locally:
-
-```bash
-# Install required dependencies
-npm install
-
-# Start the Vite development server
-npm run dev
-```
-
-Visit the displayed local server address in your browser (usually `http://localhost:5173`) to experience the application.
